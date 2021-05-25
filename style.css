@@ -1,0 +1,33 @@
+html {
+    font-family: sans-serif;
+    }
+      
+        body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    }
+    h1{
+        background-color: #B71A1B;
+        display: flex;
+        justify-content: center;
+        color: white;
+    }
+    .body1{
+        background-color: #D6FFFF;
+
+
+    }
+    p{
+        display: flex;
+        justify-content: center;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+    }
+    .guessSubmit{
+        background-color: #8FFF46;
+
+    }
